@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=black">
    <br>
   <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white">
-    <img src="https://img.shields.io/badge/adobeacrobatreader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
    <img src="https://img.shields.io/badge/adobedreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white">
    <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/adobeacrobatreader-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
    <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
    <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
